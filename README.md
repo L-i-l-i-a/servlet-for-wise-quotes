@@ -16,18 +16,18 @@
 ### 2. Руководство пользователя:
 Для запуска сервера необходимо запустить функцию Tomcat 9.0.56 файл (рис. 1.) и сервер начнет свою работу(рис. 2.):
 
-<img  widtn= "150px" src ="Screenshot .png" />
+<img  width= "600px" src ="Screenshot .png" />
 
-<img  widtn= "150px" src ="Screenshot2.png" />
+<img  width= "600px" src ="Screenshot2.png" />
 
 После запуска сервера клиенту необходимо зайти по определенному адресу и при нажатии кнопки
 "GET WISDOM"получит свою первую цитату:
 
-<img  widtn= "150px" src ="Screenshot3.png" />
+<img  width= "600px" src ="Screenshot3.png" />
 
 Если клиент хочет получить новую цитату, то он должен просто нажать на кнопку "GET WISDOM":
 
-<img  widtn= "150px" src ="Screenshot4.png" />
+<img  width= "600px" src ="Screenshot4.png" />
 
 ### 3. Архитектура проекта:
 
